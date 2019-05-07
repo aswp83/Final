@@ -1,0 +1,12 @@
+# The ALU is a digitigal circuit used to preform arthimetic and logical operations
+  [^1]: It is the main componet to the  central processing unit (CPU)
+  
+# The ALU is divided into two parts:
+UL-
+    1. The arithmetic unit (ALU)
+    2. The Logic Unit (LU)
+    
+**The ALU has direct input and output access to the processor controller, main memory, and input/output devices.**
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/0/0f/ALU_block.gif.jpg)
+
